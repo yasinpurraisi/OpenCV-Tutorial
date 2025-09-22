@@ -4,12 +4,11 @@ introduction of the basics of [OpenCV](https://opencv.org/) for image processing
 
 ## Features
 
-- **Image Loading & Display:**
-- **Image Writing:**
-- **Color Spaces:**
+- **Image Reading & Writing & Display:**
 - **Pixel Manipulation:**
 - **Greyscale Conversion:**
 - **Cropping:**
+- **Color Spaces:**
 
 ## Requirements
 
@@ -25,6 +24,3 @@ pip install opencv-python numpy matplotlib pillow
 - Email: yasinpourraisi@gmail.com
 - Telegram: [yasinprsy](https://t.me/yasinprsy)
 
----
-
-Feel free to use and modify this notebook for your own computer vision projects!
