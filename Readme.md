@@ -4,11 +4,12 @@ introduction of the basics of [OpenCV](https://opencv.org/) for image processing
 
 ## Features
 
-- **Image Reading & Writing & Display:**
-- **Pixel Manipulation:**
-- **Greyscale Conversion:**
-- **Cropping:**
-- **Color Spaces:**
+- **Image Reading & Writing & Display**
+- **Pixel Manipulation**
+- **Greyscale,BGR,RGB Conversion**
+- **Cropping**
+- **Color Spaces**
+- **Drawing Objects and texts**
 
 ## Requirements
 
