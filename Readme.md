@@ -10,6 +10,8 @@ introduction of the basics of [OpenCV](https://opencv.org/) for image processing
 - **Cropping**
 - **Color Spaces**
 - **Drawing Objects and texts**
+- **Arithmetic Operations**
+- **Histogram**
 
 ## Requirements
 
