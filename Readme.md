@@ -12,6 +12,9 @@ introduction of the basics of [OpenCV](https://opencv.org/) for image processing
 - **Drawing Objects and texts**
 - **Arithmetic Operations**
 - **Histogram**
+- **Linear and Non Linear Gamma**
+- **Mouse Events**
+- **Trackbar**
 
 ## Requirements
 
