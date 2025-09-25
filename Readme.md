@@ -15,7 +15,7 @@ introduction of the basics of [OpenCV](https://opencv.org/) for image processing
 - **Linear and Non Linear Gamma**
 - **Mouse Events**
 - **Trackbar**
-
+- **Video(webcam,url,screenrecord,file) Reading & Writing & Display**
 ## Requirements
 
 Install the required Python libraries before running the notebook:
