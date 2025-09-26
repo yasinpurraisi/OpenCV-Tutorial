@@ -31,3 +31,9 @@ pip install opencv-python numpy matplotlib pillow
 - Email: yasinpourraisi@gmail.com
 - Telegram: [yasinprsy](https://t.me/yasinprsy)
 
+## Acknowledgments
+
+This tutorial was written from scratch by me, but I used the following resources for learning and inspiration:
+- [Official OpenCV Documentation](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
+- Various OpenCV tutorials
+
