@@ -16,6 +16,7 @@ introduction of the basics of [OpenCV](https://opencv.org/) for image processing
 - **Mouse Events**
 - **Trackbar**
 - **Video(webcam,url,screenrecord,file) Reading & Writing & Display**
+- **Tresholding(Binary,Otsu,Adaptive)**
 ## Requirements
 
 Install the required Python libraries before running the notebook:
