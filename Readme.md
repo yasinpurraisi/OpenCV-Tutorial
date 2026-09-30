@@ -1,7 +1,7 @@
 
 # OpenCV Tutorial
 
-A collection of Python tutorials for [OpenCV](https://opencv.org/) image processing and computer vision. The material is split into focused notebooks for easier reading and practice. [OpenCV.ipynb](OpenCV.ipynb) remains available as the original, all-in-one tutorial.
+A collection of Python tutorials for [OpenCV](https://opencv.org/) image processing and computer vision. The material is split into focused notebooks for easier reading and practice.
 
 ## Notebooks
 
